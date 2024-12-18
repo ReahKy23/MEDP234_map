@@ -1,12 +1,16 @@
 html{
-  background-color: #d3d3d3;
+  background-color: #ffffff;
 }
 #us-map{
   display: block;
-    margin-right: center;
-  stroke-width: 1px;
+  margin: absolute;
   width: 100%;
   height:100%;
+}
+
+body{
+  text-align: left;
+  margin-bottom: 10px;
 }
 path:hover, circle:hover {
   stroke: #002868 !important;
